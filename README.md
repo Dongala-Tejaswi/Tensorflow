@@ -36,9 +36,6 @@ digit-classifier-app/
 ▶️ How to Run Locally
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/digit-classifier-app.git
-cd digit-classifier-app
-
 2️⃣ Install dependencies
 
 pip install -r requirements.txt
